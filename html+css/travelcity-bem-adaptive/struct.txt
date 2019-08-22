@@ -1,0 +1,44 @@
+div|case
+	div|case__title
+		div|title
+			div|title__sign
+				a href='#'|sign
+					img src=''|sign__pic
+	div|case__nav
+		div|nav
+			div|nav__control
+				ul|control
+					li|control__point
+						a href='#'|control__ref
+			div|nav__scan
+				form action='' method='GET'|scan
+					input type='text'|scan__area
+					input type='submit'|scan__key
+	div|case__glider
+		div|glider
+			div|glider__border
+				div|glider__pics
+					div|glider__pic
+						img src=''|pic
+	div|case__blogs
+		div|blogs
+			div|blogs__blog
+				div|blog
+					img src=''|blog__pic
+					div|blog__post
+	div|case__contents
+		div|contents
+			div|contents__pic-placeholder
+				img src=''|contents__pic
+			div|contents__stuff
+				h1|contents__headline
+				div|contents__post
+				div|contents__ref-placeholder
+					a href='#'|contents__ref
+	div|case__basement
+		div|basement
+			div|basement__nav
+				ul|nav nav_theme_light
+					li|nav__point
+						a href='#'|nav__ref
+			div|basement__copyright
