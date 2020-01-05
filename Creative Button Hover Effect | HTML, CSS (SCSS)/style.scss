@@ -1,0 +1,11 @@
+$accent-color: #07e8ff;
+$base-color: #2f0000;
+$border-size: 3px;
+
+.wrapper {
+    margin: 0;
+    padding: 0;
+    widows: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #3c0453, $base-color);
+}
